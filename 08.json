@@ -350,7 +350,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0716/21/c00c29cd6ffb4b40c1b94f69207ecb5e.jpg;md5;c7a619ffb534e64c844dba0a3fe88de5",
     },
     {
       "key": "1905",
@@ -360,7 +359,6 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0716/21/c00c29cd6ffb4b40c1b94f69207ecb5e.jpg;md5;c7a619ffb534e64c844dba0a3fe88de5",
     },
     {
       "key": "橘皮",
@@ -431,7 +429,6 @@
       "name": "💡荐片｜影视",
       "api": "csp_JianPian",
       "type": 3,
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0716/21/c00c29cd6ffb4b40c1b94f69207ecb5e.jpg;md5;c7a619ffb534e64c844dba0a3fe88de5",
       "ext": "https://api.ztcgi.com"
     },
     {
@@ -448,7 +445,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0716/21/c00c29cd6ffb4b40c1b94f69207ecb5e.jpg;md5;c7a619ffb534e64c844dba0a3fe88de5",
       "ext": "http://cmsyun2.qijiyun.vip/api.php/app/"
     },
     {
