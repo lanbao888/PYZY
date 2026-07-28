@@ -1,6 +1,7 @@
 {
   "version": "1.0",
   "name": "我的多站点聚合源",
+  "spider": "https://jihulab.com/yoursmile7/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
   "author": "自定义",
   "updateTime": "2026-07-28",
   "sites": [
