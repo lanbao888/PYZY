@@ -4,10 +4,10 @@
   "sites": [
     {
       "key": "Tg豆瓣",
-      "name": "🔍Tg豆瓣┃20南风线路20",
+      "name": "蜜橙时光┃随心追剧",
       "type": 3,
       "api": "csp_TgYunDouBanPan",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 0,
       "ext": {
         "siteUrl": "http://127.0.0.1:9999",
@@ -19,7 +19,7 @@
     },
     {
       "key": "豆瓣2",
-      "name": "📢如果失效等候更新或者在线更新本地包防失效",
+      "name": "📢欧歌+南风精简2608",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -29,7 +29,7 @@
       "name": "📢公告❤更新0727❤",
       "type": 3,
       "api": "csp_Notice",
-      "searchable": 1,
+      "searchable": 0,
       "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0307/11/f3b31497ca266ea4f8a89c88e9385f48.jpg;md5;ff4f99fad585f4935fcaa06e3092e44a",
       "ext": "https://aaa.v.nxog.top/m/公告?b=如果失效等候更新或者在线更新本地包防失效"
     },
