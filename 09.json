@@ -342,26 +342,6 @@
       "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
     },
     {
-      "key": "爱看机器人",
-      "name": "💡爱看｜影视",
-      "type": 3,
-      "api": "csp_Ikanbot",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0716/21/c00c29cd6ffb4b40c1b94f69207ecb5e.jpg;md5;c7a619ffb534e64c844dba0a3fe88de5",
-    },
-    {
-      "key": "1905",
-      "name": "💡1905｜影视",
-      "type": 3,
-      "api": "csp_Web1905",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0716/21/c00c29cd6ffb4b40c1b94f69207ecb5e.jpg;md5;c7a619ffb534e64c844dba0a3fe88de5",
-    },
-    {
       "key": "橘皮",
       "name": "💡橘皮｜影视",
       "type": 3,
