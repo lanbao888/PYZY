@@ -452,21 +452,6 @@
       "ext": "http://cmsyun2.qijiyun.vip/api.php/app/"
     },
     {
-      "key": "毒舌影视",
-      "name": "🥇毒舌｜影视",
-      "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/毒舌影视.js"
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0716/21/c00c29cd6ffb4b40c1b94f69207ecb5e.jpg;md5;c7a619ffb534e64c844dba0a3fe88de5",
-    },
-    {
-      "key": "瓜子影视",
-      "name": "🥇瓜子｜影视",
-      "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/GZYS.py",
-      "changeable": 1
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0716/21/c00c29cd6ffb4b40c1b94f69207ecb5e.jpg;md5;c7a619ffb534e64c844dba0a3fe88de5",
-    },
-    {
       "key": "永1乐",
       "name": "🥇永乐｜影视",
       "type": 3,
