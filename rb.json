@@ -7,7 +7,7 @@
   "sites": [
     {
       "key": "农民影视",
-      "name": "💡蜜橙1｜时光",
+      "name": "💡蜜橙2｜时光",
       "type": 3,
       "api": "csp_Wwys",
       "searchable": 1,
@@ -56,7 +56,6 @@
       "key": "橘汁",
       "name": "橘汁 • APP",
       "type": 3,
-      "jar": "https://img.51shazhu.com/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260722/jvWd/0X0/07221556.png;md5;9782c6950ad692ee1bda8a46c725a9e2",
       "api": "csp_AppDrama",
       "ext": {
         "appName": "橘汁",
@@ -74,7 +73,6 @@
       "key": "华谊",
       "name": "华谊 • APP",
       "type": 3,
-      "jar": "https://img.51shazhu.com/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260722/jvWd/0X0/07221556.png;md5;9782c6950ad692ee1bda8a46c725a9e2",
       "api": "csp_AppDrama",
       "ext": {
         "appName": "华谊",
@@ -92,7 +90,6 @@
       "key": "苹果",
       "name": "苹果 • APP",
       "type": 3,
-      "jar": "https://img.51shazhu.com/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260722/jvWd/0X0/07221556.png;md5;9782c6950ad692ee1bda8a46c725a9e2",
       "api": "csp_AppDrama",
       "ext": {
         "appName": "小苹果",
@@ -110,7 +107,6 @@
       "key": "薯条",
       "name": "薯条 • APP",
       "type": 3,
-      "jar": "https://img.51shazhu.com/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260722/jvWd/0X0/07221556.png;md5;9782c6950ad692ee1bda8a46c725a9e2",
       "api": "csp_AppDrama",
       "searchable": 1,
       "ext": {
