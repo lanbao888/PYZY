@@ -18,6 +18,13 @@
       }
     },
     {
+      "key": "豆瓣2",
+      "name": "📢如果失效等候更新或者在线更新本地包防失效",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0
+    },
+    {
       "key": "config",
       "name": "🐲歌配置｜中心",
       "type": 3,
