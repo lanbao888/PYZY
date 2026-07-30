@@ -53,52 +53,6 @@
       }
     },
     {
-      "key": "csp_wogg1",
-      "name": "🐲玩歌｜4K弹幕",
-      "type": 3,
-      "changeable": "0",
-      "api": "csp_Duopan",
-      "filterable": 1,
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0729/14/ac6da3f3d2f7a143cb4ff68ac0aba5b9.jpg;md5;19b4103b57b2c4fb19c2fe80bbf2686d",
-      "ext": {
-        "site_urls": [
-          "https://woog.nxog.fun",
-          "https://woog.nxog.eu.org",
-          "https://woog.430520.xyz",
-          "https://woog.装歌.de5.net",
-          "https://ogkk.nxog.fun"
-        ],
-        "url_key": "wogg1",
-        "threadinfo": {
-          "chunksize": 405,
-          "threads": 16
-        }
-      }
-    },
-    {
-      "key": "csp_woog2",
-      "name": "🐲装歌｜4K弹幕",
-      "type": 3,
-      "changeable": "0",
-      "api": "csp_Duopan",
-      "filterable": 1,
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0729/14/ac6da3f3d2f7a143cb4ff68ac0aba5b9.jpg;md5;19b4103b57b2c4fb19c2fe80bbf2686d",
-      "ext": {
-        "site_urls": [
-          "https://ogkk.nxog.fun",
-          "https://ogkk.nxog.eu.org",
-          "https://ogkk.430520.xyz",
-          "https://ogkk.装歌.de5.net",
-          "https://woog.430520.xyz"
-        ],
-        "url_key": "woog2",
-        "threadinfo": {
-          "chunksize": 480,
-          "threads": 16
-        }
-      }
-    },
-    {
       "key": "橘汁",
       "name": "橘汁 • APP",
       "type": 3,
