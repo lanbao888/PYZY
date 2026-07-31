@@ -57,6 +57,7 @@
       "name": "云朵 • APP",
       "type": 3,
       "api": "csp_App3Q",
+      "searchable": 1,
       "jar": "https://img.51shazhu.com/autoupload/g1b6f/20260731/LJbk/0X0/07311646.png",
       "ext": {
         "host": "https://ds3xy2yunsa.xyz",
