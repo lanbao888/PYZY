@@ -767,7 +767,7 @@
       "type": 3,
       "jar": "https://img.51shazhu.com/autoupload/g1b6f/20260731/LJbk/0X0/07311646.png",
       "api": "csp_Bili",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
       "changeable": 0,
