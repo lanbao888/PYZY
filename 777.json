@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "Tg豆瓣",
-      "name": "蜜橙时光┃7772",
+      "name": "蜜橙时光┃7773",
       "type": 3,
       "api": "csp_TgYunDouBanPan",
       "searchable": 0,
@@ -164,7 +164,6 @@
       "name": "🅰小苹果",
       "type": 3,
       "api": "csp_AppDrama",
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0716/21/c00c29cd6ffb4b40c1b94f69207ecb5e.jpg",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
