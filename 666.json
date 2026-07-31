@@ -1,10 +1,10 @@
 {
-  "spider": "https://jihulab.com/yoursmile7/TVBox/-/raw/main/Yoursmile.jar",
+  "spider": "https://jihulab.com/yoursmile7/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
   "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
   "sites": [
     {
       "key": "Tg豆瓣",
-      "name": "蜜橙时光┃测试jar",
+      "name": "蜜橙时光┃测试jar1",
       "type": 3,
       "api": "csp_TgYunDouBanPan",
       "searchable": 0,
