@@ -6,7 +6,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "好想吃 • 榴莲了6",
+      "name": "好想吃 • 榴莲了",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
