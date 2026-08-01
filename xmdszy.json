@@ -6,7 +6,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "好想吃 • 榴莲了1",
+      "name": "好想吃 • 榴莲了2",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -185,7 +185,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://jihulab.com/yoursmile7/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
+      "jar": "https://jihulab.com/yoursmile7/TVBox/-/raw/main/Yoursmile.jar",
       "ext": {
         "appName": "薯条影视",
         "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
